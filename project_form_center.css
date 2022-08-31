@@ -1,0 +1,110 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.container{
+    align-items: center;
+    background-color: rgb(17, 0, 90);
+    /* background-color: #2C3A54; */
+    width: 50%;
+    height: 95vh;
+    margin-left: 350px;
+}
+
+
+.header h2{
+    background-color: gold;
+    color: white;
+    padding: 15px;
+    
+}
+
+.header h2:hover{
+    color: black;
+}
+
+.main_body{
+    color: gold;
+}
+
+
+.main_body form table{
+    text-align: center;
+    width: 50%;
+}
+
+.main_body form table input[type=text],input[type=email],input[type=password],input[type=tel]
+{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#month{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    width: 29%;
+    border-radius: 10px;
+}
+
+#date{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    width: 25%;
+    border-radius: 10px;
+}
+
+#year{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    width: 35%;
+    border-radius: 10px;
+}
+
+#country{
+    font-size: 19px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    width: 91%;
+    border-radius: 10px;
+}
+
+.check{
+    margin-right: 20%;
+    font-size: 15px;
+}
+
+.footer{
+    background-color: gold;
+    height: auto;
+    text-align: right;  
+    padding: 9px;  
+    font-size: large;     
+}
+
+.footer input{
+    border-radius: 8px;
+    color: white;
+    padding: 7px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer input:hover{
+    color: black;
+}
+
+#submit{
+    background-color: lightgreen;
+}
+
+#cancel{
+    background-color: skyblue;    
+}
