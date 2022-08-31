@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-heading {
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.form-label {
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.column-class{
+    margin-left: 25%;
+}
+
+.column-gender{
+    margin-left: 5%;
+}
+
+.form-check-label{
+    color: black;
+}
+
+.button1{
+    margin-left: 45%;
+}
+
+.button{
+    margin-top: 10px;
+}
+
+.values{
+    font-size: large;
+    font-weight: normal;
+    margin: 15px 2px;
+}
